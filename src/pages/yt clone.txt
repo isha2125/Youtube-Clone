@@ -1,0 +1,15 @@
+sfc - stateless functional component 
+its a componeent returned as function
+
+home.js is a page 
+and CustomAppBar is the component.
+../../public-wrong
+../../logo.svg-right
+inside data - array is stored
+=== -> equality of values 
+== -> memory loaction is also checked
+
+e.name ?? "sample" -> giving the default value to the name key 
+nullish operator
+
+container - div in bootstrap
